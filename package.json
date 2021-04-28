@@ -9,6 +9,11 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
+		"url": "https://fcc-npm.saarcoder.repl.co/"
+	},
+	"author": "Alex Kimoto",
+	"description": "Dummy FCC page for APIs and Microservices course",
+	"keywords": ["freecodecamp", "apis and microservices", "managing packages with npm"],
+	"license": "MIT",
+	"version": "0.0.1"
 }
